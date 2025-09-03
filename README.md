@@ -24,8 +24,8 @@ If a customer has a balance of less than 100 TK, they can apply for a loan of up
                          URL: https://dmoneyportal.roadtocareer.net/
 
 ## Acceptence criteria and checklist: 
-https://docs.google.com/document/d/1B49tiNzdxuFTi0R_nNqY0WbaY3cKRLsh/edit?usp=sharing&ouid=117721760905608068339&rtpof=true&sd=true
+https://docs.google.com/document/d/1qY80UNF2ybdHDKmN75DL-59nlYdX98kN/edit?usp=sharing&ouid=117721760905608068339&rtpof=true&sd=true
 ## Test Cases: 
-https://docs.google.com/spreadsheets/d/13qbuITJ32eIJjWa4QKkHTeQ1LSeBs06R/edit?usp=sharing&ouid=117721760905608068339&rtpof=true&sd=true
+https://docs.google.com/spreadsheets/d/1pbXnNfonbEdtd2qkga-6W3CfTyT3lyoh/edit?usp=sharing&ouid=117721760905608068339&rtpof=true&sd=true
 ## Bug report: 
-https://docs.google.com/spreadsheets/d/1ujaCAttMi7e0K44ySIaQ_mceHWP6XHBW/edit?gid=2050098623#gid=2050098623
+https://docs.google.com/spreadsheets/d/1b78pUb7W4HrVQIzBHs2Mz44Bf-daR5nb/edit?usp=sharing&ouid=117721760905608068339&rtpof=true&sd=true
